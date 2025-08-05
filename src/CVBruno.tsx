@@ -14,7 +14,7 @@ export default function CVBruno() {
             />
             <div className="absolute -bottom-2 -right-2 w-8 h-8 bg-green-500 rounded-full border-4 border-slate-900"></div>
           </div>
-          <h1 className="text-6xl font-bold text-red mb-4 bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-black">
+          <h1 className="text-6xl font-bold text-red mb-4 bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-white">
             Bruno A. Salazar
           </h1>
           <p className="text-xl text-purple-300 mb-2">
