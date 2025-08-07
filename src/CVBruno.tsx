@@ -1,5 +1,5 @@
-import React from "react";
-import { FaGithub, FaInstagram, FaXTwitter } from "react-icons/fa6";
+
+import { FaGithub, FaInstagram, FaLinkedin, FaXTwitter } from "react-icons/fa6";
 
 export default function CVBruno() {
   return (
@@ -8,11 +8,10 @@ export default function CVBruno() {
         <header className="text-center mb-16">
           <div className="relative mb-8 ">
             <img
-              src="/cv.jpg"
+              src="/cvBruno/cv.jpg"
               alt="Bruno Salazar"
               className="w-40 h-40 rounded-full mx-auto object-cover border-1 border-purple-500 shadow-2xl"
             />
-            <div className="absolute -bottom-2 -right-2 w-8 h-8 bg-green-500 rounded-full border-4 border-slate-900"></div>
           </div>
           <h1 className="text-6xl font-bold text-red mb-4 bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-white">
             Bruno A. Salazar
@@ -20,17 +19,17 @@ export default function CVBruno() {
           <p className="text-xl text-purple-300 mb-2">
             Programador Aficionado | Administrativo
           </p>
-          <p className="text-lg text-gray-400 mb-4">
-            Fecha de nacimiento: 01/07/1985
-          </p>
           <p className="text-lg text-gray-300 mb-8">
-            San Martín de los Andes · brunosalazar85@gmail.com · +54 9 2944
-            319931
+            San Martín de los Andes · brunosalazar85@gmail.com
           </p>
 
           <div className="flex justify-center space-x-6 mb-8">
             <a href="https://github.com/brunoas85" target="_blank">
               <FaGithub className="inline-block w-5 h-5 text-blue-600 ml-2" />
+            </a>
+
+            <a href="https://linkedin.com/in//bruno-andrés-salazar-5a541b255" target="_blank">
+              <FaLinkedin className="inline-block w-5 h-5 text-blue-600 ml-2" />
             </a>
 
             <a href="https://instagram.com/brunoas85" target="_blank">
@@ -46,7 +45,7 @@ export default function CVBruno() {
           <h2 className="text-3xl font-bold mb-6 text-purple-400 flex items-center">
             <span className="mr-3">💡</span> Perfil
           </h2>
-          <p className="text-lg text-gray-300 leading-relaxed">
+          <p className="text-lg text-gray-300 leading-relaxed text-justify">
             Entusiasta de la programación, las TIC´s, IA y Bug Bounty, Python
             para principiante de la UTN, autodidacta. Actualmente en formación
             React JS con BIT Cotesma. Curso de IA básica en proceso. Experiencia
