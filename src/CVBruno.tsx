@@ -1,5 +1,5 @@
 
-import { FaGithub, FaInstagram, FaLinkedin, FaXTwitter } from "react-icons/fa6";
+import { FaDiscord, FaGithub, FaInstagram, FaLinkedin, FaXTwitter } from "react-icons/fa6";
 
 export default function CVBruno() {
   return (
@@ -30,6 +30,10 @@ export default function CVBruno() {
 
             <a href="https://linkedin.com/in//bruno-andrés-salazar-5a541b255" target="_blank">
               <FaLinkedin className="inline-block w-5 h-5 text-blue-600 ml-2" />
+            </a>
+
+            <a href="https://discord.com/channels/@me" target="_blank">
+              <FaDiscord className="inline-block w-5 h-5 text-blue-600 ml-2" />
             </a>
 
             <a href="https://instagram.com/brunoas85" target="_blank">
