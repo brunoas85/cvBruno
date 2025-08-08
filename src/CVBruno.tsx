@@ -17,7 +17,7 @@ export default function CVBruno() {
             Bruno A. Salazar
           </h1>
           <p className="text-xl text-purple-300 mb-2">
-            Programador Aficionado | Administrativo
+            Programador | Administrativo
           </p>
           <p className="text-lg text-gray-300 mb-8">
             San Martín de los Andes · brunosalazar85@gmail.com
