@@ -28,7 +28,7 @@ export default function CVBruno() {
               <FaGithub className="inline-block w-5 h-5 text-blue-600 ml-2" />
             </a>
 
-            <a href="https://linkedin.com/in//bruno-andrés-salazar-5a541b255" target="_blank">
+            <a href="https://www.linkedin.com/in/brunosma/" target="_blank">
               <FaLinkedin className="inline-block w-5 h-5 text-blue-600 ml-2" />
             </a>
 
@@ -36,11 +36,11 @@ export default function CVBruno() {
               <FaDiscord className="inline-block w-5 h-5 text-blue-600 ml-2" />
             </a>
 
-            <a href="https://instagram.com/brunoas85" target="_blank">
+            <a href="https://instagram.com/brunosma85" target="_blank">
               <FaInstagram className="inline-block w-5 h-5 text-blue-600 ml-2" />
             </a>
             <a href="https://x.com/brunosma85" target="_blank">
-              <FaXTwitter  className="inline-block w-5 h-5 text-blue-600 ml-2" />
+              <FaXTwitter className="inline-block w-5 h-5 text-blue-600 ml-2" />
             </a>
           </div>
         </header>
