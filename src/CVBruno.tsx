@@ -216,13 +216,33 @@ export default function CVBruno() {
               .
             </p>
             <ul className="space-y-2 text-gray-300">
-              <li className="flex items-center">
-                <span className="w-2 h-2 bg-red-500 rounded-full mr-3"></span>
-                Gestión de Expedientes Electrónicos (EE)
+              <li>
+                <div className="flex items-center">
+                  <span className="w-2 h-2 bg-red-500 rounded-full mr-3"></span>
+                  GDE (Gestión Documental Electrónica)
+                </div>
+                <ul className="mt-2 ml-5 space-y-2">
+                  <li className="flex items-center">
+                    <span className="w-1.5 h-1.5 bg-red-500/60 rounded-full mr-3"></span>
+                    EE (Expedientes Electrónicos)
+                  </li>
+                  <li className="flex items-center">
+                    <span className="w-1.5 h-1.5 bg-red-500/60 rounded-full mr-3"></span>
+                    GEDO (Gestión Electrónica de Documentos Oficiales)
+                  </li>
+                  <li className="flex items-center">
+                    <span className="w-1.5 h-1.5 bg-red-500/60 rounded-full mr-3"></span>
+                    CCOO (Comunicaciones Oficiales)
+                  </li>
+                </ul>
               </li>
               <li className="flex items-center">
                 <span className="w-2 h-2 bg-red-500 rounded-full mr-3"></span>
                 Administración integral de RRHH y asistencia
+              </li>
+              <li className="flex items-center">
+                <span className="w-2 h-2 bg-red-500 rounded-full mr-3"></span>
+                SIAPN
               </li>
               <li className="flex items-center">
                 <span className="w-2 h-2 bg-red-500 rounded-full mr-3"></span>
